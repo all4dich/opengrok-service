@@ -1,0 +1,4 @@
+/data/*
+/program/*
+/backup/*
+*.log
